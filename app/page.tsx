@@ -1,9 +1,11 @@
-import Footer from "@/components/footer";
-import Header from "@/components/header";
+// page.tsx 
+
+import React from 'react'
 
 export default function Home() {
   return (
-      <div className="container ">
-      </div>
+    <div className='bg-white rounded-b-3xl p-[20px]'>
+     
+    </div>
   );
 }

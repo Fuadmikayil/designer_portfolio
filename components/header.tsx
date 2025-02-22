@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <header className="py-[50px] container flex items-center justify-between">
+    <header className="py-[50px] bg-white container flex items-center justify-between">
       <Image
         src="/dp.png"
         className=" w-9 h-9 md:w-12 md:h-12"
